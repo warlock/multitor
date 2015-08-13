@@ -1,0 +1,26 @@
+{
+  "name": "multitor",
+  "version": "1.0.0",
+  "description": "Multiple Tor instances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/warlock/multitor.git"
+  },
+  "keywords": [
+    "multi-tor",
+    "multitor",
+    "tor",
+    "proxy",
+    "instances"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warlock/multitor/issues"
+  },
+  "homepage": "https://github.com/warlock/multitor#readme"
+}
