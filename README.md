@@ -24,3 +24,6 @@ npm install multitor
 ```
 
 ----
+
+## Next ideas:
+Make a easy control port refresh.
