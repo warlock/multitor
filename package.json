@@ -17,10 +17,19 @@
     "proxy",
     "instances"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Josep Subils Rigau",
+    "email": "octozon@gmail.com",
+    "url": "http://octozon.com"
+  },
+  "license": "GPL",
   "bugs": {
     "url": "https://github.com/warlock/multitor/issues"
   },
+  "maintainers": [
+  {
+    "name": "josep",
+    "email": "octozon@gmail.com"
+   },
   "homepage": "https://github.com/warlock/multitor#readme"
 }
